@@ -1,0 +1,29 @@
+h1 {
+  color: red;
+}
+
+h2 {
+  color: blue;
+}
+
+p {
+  width:300px;
+}
+
+.square {
+  list-style-type: square;
+}
+
+.roman {
+  list-style-type: upper-roman;
+}
+
+.purple {
+  color: purple;
+  text-decoration: underline;
+}
+
+.black {
+  color: black;
+  text-decoration: underline;
+}
